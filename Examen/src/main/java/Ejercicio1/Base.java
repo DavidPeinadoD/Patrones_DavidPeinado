@@ -1,5 +1,7 @@
 package Ejercicio1;
 
+import Ejercicio1.Factories.BaseBuilder;
+
 public abstract class Base implements BaseBuilder {
     private String nombre;
     private int numeroAmbulancias;

@@ -1,4 +1,4 @@
 package Ejercicio2;
 
-public class A {
+public class Main {
 }

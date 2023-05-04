@@ -1,4 +1,6 @@
-package Ejercicio1;
+package Ejercicio1.Factories;
+
+import Ejercicio1.Base;
 
 public interface BaseBuilder {
     BaseBuilder setNombre(String nombre);
